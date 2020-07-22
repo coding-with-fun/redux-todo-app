@@ -16,7 +16,7 @@ function ToDoForm(props) {
 			<div className="form-row">
 				<div className="col">
 					<input
-						maxLength="14"
+						maxLength="50"
 						type="text"
 						name="todo"
 						className="form-control"
