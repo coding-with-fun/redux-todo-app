@@ -1,6 +1,6 @@
 {
   "short_name": "Todo App",
-  "name": "Organize it all with Todo App",
+  "name": "Todo App",
   "icons": [{
       "src": "./images/logo.png",
       "type": "image/png",
